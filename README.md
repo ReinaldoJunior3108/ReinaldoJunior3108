@@ -64,7 +64,10 @@ Here are some technologies and tools I have used recently
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
   </a>
 </p>
----
+
+
+<a href="https://raw.githubusercontent.com/ReinaldoJunior3108/README/78f2c38db737871b34b804e840eaf0ec07a6b160/Reinaldo%20ATS%20Curriculum%20English.pdf">Download CV</a>
+<a href="ttps://raw.githubusercontent.com/ReinaldoJunior3108/README/78f2c38db737871b34b804e840eaf0ec07a6b160/Reinaldo%20ATS%20Curriculum%20Tech.pdf">Download CV (Portugues)</a>
 
 ## 📊 GitHub Stats
 
