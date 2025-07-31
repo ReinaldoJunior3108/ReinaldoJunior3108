@@ -31,7 +31,7 @@ I am a Technology professional in constant growth, focused in robust web interfa
 
 ---
 
-## 🛠️ Technologies e Tools
+## 🛠️ Technologies and Tools
 
 Here are some technologies and tools I have used recently
 
